@@ -1,3 +1,4 @@
-function NewCanvas(int width_canvas, int height_canvas){
+function NewCanvas(width_canvas, height_canvas, backcolor){
     createCanvas(width_canvas, height_canvas);
+    background(backcolor)
 }
