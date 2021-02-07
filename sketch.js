@@ -3,7 +3,8 @@ function setup() {
 }
 
 function draw() {
-  
+  background(51);
+  alert(1)
 }
 
 function windowResized() {
