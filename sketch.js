@@ -3,8 +3,8 @@ function setup() {
 }
 
 function draw() {
-  background(51);
-  alert(1)
+colorMode(HSB);
+background(255, 204, 100);
 }
 
 function windowResized() {
